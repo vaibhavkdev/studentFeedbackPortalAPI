@@ -1,0 +1,6 @@
+@StudentFeedbackApi_HostAddress = http://localhost:5062
+
+GET {{StudentFeedbackApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
